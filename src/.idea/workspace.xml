@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606763647791</updated>
       <workItem from="1606763649023" duration="2343000" />
-      <workItem from="1606766032559" duration="385000" />
+      <workItem from="1606766032559" duration="860000" />
     </task>
     <servers />
   </component>
@@ -110,5 +110,21 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1606766009688" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1606766658510">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1606766658510" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1606766658510">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1606766658510" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1606766658510">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1606766658510" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1606766658510">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1606766658510" />
   </component>
 </project>

@@ -27,10 +27,13 @@ public class ChatBot {
 //        // Returns true if str contains a "nice" word
 //    }
 
-//    public String getUserResponse() {
-//        // Asks the user for a question or response and returns user's input
-//
-//    }
+    public String getUserResponse() {
+        // Asks the user for a question or response and returns user's input
+        System.out.println("Enter a question for ChatBot");
+        Scanner input = new Scanner(System.in);
+        String response = input.nextLine();
+        return response;
+    }
 
     public int randomInt(int min, int max){
         // returns a random integer from min to max
