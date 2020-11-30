@@ -1,4 +1,5 @@
 package com.company;
+import java.util.Scanner;
 
 public class ChatBot {
     private final String name;
@@ -7,11 +8,12 @@ public class ChatBot {
         this.name = name;
     }
 
-<<<<<<< HEAD
     String[] keyword = {"birth", "weather", "food", "hobby", "age", "gender", "family", "culture", "friend", "movie"};
     String[] nice = {"love", "hug", "happy", "believe", "awesome", "amazing", "cool"};
     String[] mean = {"loser", "dumb", "hate", "suck", "die", "kill", "murder", "midget", "nazi", "depressed"};
-=======
+    String[] greetings = {"Hello, what questions do you have for me?",
+    "What's up", "What do you want to know about me, bro?????"};
+
     public String getName() {
         return name;
     }
@@ -32,10 +34,12 @@ public class ChatBot {
 
     public int randomInt(int min, int max){
         // returns a random integer from min to max
+        int randomNumber = (int) (Math.random() * max) + min;
+        return randomNumber;
     }
 
     public String greet() {
         // Returns a random string from the three pre-made greetings
+        return greetings[randomInt(1, 3)];
     }
->>>>>>> babe82a0705c73ea97a1b4f98c34262026695e09
 }
